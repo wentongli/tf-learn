@@ -1,3 +1,3 @@
 import sys
 
-print("version %s", sys.version)
+print('Python %s on %s' % (sys.version, sys.platform))
